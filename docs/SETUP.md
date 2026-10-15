@@ -15,9 +15,10 @@ This page provides instructions to install and configure the WebUntis integratio
 
 ### Manual Installation
 
-1. Copy all files from `custom_components/webuntis/` to your Home Assistant config directory at `custom_components/webuntis/`.
-2. Restart Home Assistant.
-3. Add the integration via the [Home Assistant UI](https://my.home-assistant.io/redirect/integrations/) or click [here](https://my.home-assistant.io/redirect/config_flow_start/?domain=webuntis).
+1. Download [webuntis.zip](releases/latest) and unzip it
+2. Copy all included files into your Home Assistant custom_components directory at `custom_components/webuntis/`.
+3. Restart Home Assistant.
+4. Add the integration via the [Home Assistant UI](https://my.home-assistant.io/redirect/integrations/) or click [here](https://my.home-assistant.io/redirect/config_flow_start/?domain=webuntis).
 
 
 ## Configuration via UI
